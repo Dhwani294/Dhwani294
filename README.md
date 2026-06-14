@@ -70,5 +70,5 @@ DevOps           Docker · Kubernetes · GitHub Actions · Jenkins · Git
 ---
 
 <p align="center">
-  <i>Framing business challenges as analytical problems — and building the systems to solve them.</i>
+  <i>Framing business challenges as analytical problems and building the systems to solve them.</i>
 </p>
