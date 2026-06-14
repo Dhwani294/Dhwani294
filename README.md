@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhwani294&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhwani294&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=c%2B%2B,jupyter%20notebook" height="150"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwani294&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
