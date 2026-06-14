@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhwani294&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=c%2B%2B,jupyter%20notebook" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhwani294&theme=radical" width="100%"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwani294&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
