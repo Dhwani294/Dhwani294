@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwani294&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhwani294&theme=radical&no-frame=true&no-bg=true&column=4" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwani294&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
