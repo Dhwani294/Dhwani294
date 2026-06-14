@@ -1,33 +1,31 @@
-<h1 align="center">Dhwani Jain</h1>
+<h1 align="center">Hi 👋! I'm Dhwani Jain — final year CS student & data nerd.</h1>
 
-<p align="center">
-  🟢 &nbsp;Final-year CS @ KIIT &nbsp;·&nbsp; Data Engineering · Data Science · Agentic AI &nbsp;·&nbsp; Open to work mid-2026
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/KIIT%20University-CGPA%208.7%2F10-6C47B8?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Internships-3-1D9E75?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Projects-7%2B-0A66C2?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-EA4335?style=flat-square"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhwani294&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwani294&layout=compact&theme=radical&hide_border=true" height="150"/>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/jaindhwani"><img src="https://img.shields.io/badge/LinkedIn-jaindhwani-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:dhwanijain294@gmail.com"><img src="https://img.shields.io/badge/Email-dhwanijain294@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<br/>
 
----
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,gcp,aws,azure" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,docker,kubernetes,fastapi,git" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,postman,kafka,spark" />
+</div>
+
+<br/>
 
 ### 🔨 Currently Building
 
 **[VulnGraph — Open-Source Dependency Intelligence Platform](https://github.com/Dhwani294/Open-Source-Dependency-Intelligence-Platform)**  
 `CVE ingestion from 5 sources` → `BigQuery star-schema` → `Airflow DAGs` → `dbt blast-radius models` → `FastAPI on Cloud Run`
 
----
+<br/>
 
 ### 💼 Experience
 
@@ -37,38 +35,28 @@
 | 🟢 | **Moback Technologies**, Bangalore | Data Science Intern | May – Jul 2025 |
 | 🟡 | **Fretboard Interactive Systems** | Data Analyst Intern | Dec 2024 – Feb 2025 |
 
----
-
-### 🛠️ Tech Stack
-
-```
-Languages        Python · SQL · C++ · Java
-
-ML & DS          XGBoost · Scikit-learn · PyTorch · TensorFlow · SHAP · BERTopic
-                 PySpark · Propensity Modelling · Hypothesis Testing · SMOTE · RFM
-
-Agentic AI       LangChain · LangGraph · CrewAI · LlamaIndex · RAG Pipelines
-                 FAISS · BM25 · MCP · OpenAI API · Anthropic API · Hugging Face
-
-Data Eng         Apache Airflow · dbt · Apache Kafka · PySpark · Delta Lake
-                 ETL/ELT · FastAPI · SCD Type 2 · Schema Design
-
-Cloud & DB       GCP (BigQuery · GCS · Cloud Run) · AWS (EC2 · S3 · Lambda · RDS)
-                 Azure · Snowflake · PostgreSQL · MySQL · MongoDB · OracleDB
-
-BI & Viz         Power BI · Tableau · Streamlit · Excel · Matplotlib · Seaborn
-
-DevOps           Docker · Kubernetes · GitHub Actions · Jenkins · Git
-```
-
----
+<br/>
 
 ### 🎓 Education
 
 **B.Tech in Computer Science Engineering** · KIIT University, Bhubaneswar · `2022 – 2026` · **CGPA 8.7 / 10**
 
----
+<br/>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dhwani294/Dhwani294/output/snake.svg" alt="Snake animation"/>
+</div>
+
+<br/>
 
 <p align="center">
-  <i>Framing business challenges as analytical problems and building the systems to solve them.</i>
+  <a href="https://linkedin.com/in/jaindhwani"><img src="https://img.shields.io/badge/LinkedIn-jaindhwani-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:dhwanijain294@gmail.com"><img src="https://img.shields.io/badge/Email-dhwanijain294@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Dhwani294&style=flat-square&color=1D9E75" alt="profile views"/>
 </p>
+
+<p align="center"><i>Framing business challenges as analytical problems — and building the systems to solve them.</i></p>
