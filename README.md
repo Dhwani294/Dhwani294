@@ -3,8 +3,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhwani294&theme=react-dark&hide_border=true" width="100%"/>
-  &nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF61C6&center=true&vCenter=true&width=800&lines=Data+Analyst;Machine+Learning+Engineer;AI+Enthusiast;Building+with+Data+%26+AI" />  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwani294&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
 
