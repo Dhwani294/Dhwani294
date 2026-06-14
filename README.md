@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋! I'm Dhwani Jain — final year CS student & data nerd.</h1>
+<h1 align="center">Hi 👋! I'm Dhwani Jain — final year CS student </h1>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhwani294&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhwani294&theme=radical&hide_border=true" height="150"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwani294&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
@@ -43,20 +43,11 @@
 
 <br/>
 
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dhwani294/Dhwani294/output/snake.svg" alt="Snake animation"/>
-</div>
-
-<br/>
-
 <p align="center">
   <a href="https://linkedin.com/in/jaindhwani"><img src="https://img.shields.io/badge/LinkedIn-jaindhwani-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:dhwanijain294@gmail.com"><img src="https://img.shields.io/badge/Email-dhwanijain294@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Dhwani294&style=flat-square&color=1D9E75" alt="profile views"/>
 </p>
 
-<p align="center"><i>Framing business challenges as analytical problems — and building the systems to solve them.</i></p>
+<p align="center"><i>Framing business challenges as analytical problems and building the systems to solve them.</i></p>
