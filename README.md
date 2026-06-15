@@ -8,15 +8,83 @@
 </div>
 
 <br/>
-
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,gcp,aws,azure" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,docker,kubernetes,fastapi,git" /><br/>
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux,postman,kafka,spark" />
-</div>
 
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+
+<br/><br/>
+
+**Cloud & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,mongodb,postgresql,sqlite" />
+<br/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+<br/><br/>
+
+**Data Engineering**
+<br/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+
+<br/><br/>
+
+**ML & Data Science**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<br/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-FF0000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/BERTopic-764ABC?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SMOTE-43A047?style=flat-square&logoColor=white"/>
+
+<br/><br/>
+
+**GenAI & Agentic AI**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-6366F1?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-FF6B6B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-00A67E?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
+<br/><br/>
+
+**BI & Visualization**
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white"/>
+
+<br/><br/>
+
+**DevOps & Collaboration**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins,vscode,linux,postman" />
+<br/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+</div>
 <br/>
 
 ### 🔨 Currently Building
