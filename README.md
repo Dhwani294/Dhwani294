@@ -51,9 +51,6 @@
 
 ### 🔨 Currently Building
 
-**[Self Healing RAG](https://github.com/Dhwani294/Self-Healing-rag)**  
-`Hybrid Retrieval` → `Qdrant Vector Search` → `Self-Healing Query Expansion` → `FastAPI APIs` → `Prometheus Monitoring` → `Grafana Dashboards`
-
 <br/>
 
 **[VulnGraph — Open-Source Dependency Intelligence Platform](https://github.com/Dhwani294/Open-Source-Dependency-Intelligence-Platform)**  
