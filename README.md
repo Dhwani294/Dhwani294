@@ -3,8 +3,9 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF61C6&center=true&vCenter=true&width=800&lines=Data+Analyst;Data+Scientist;Machine+Learning;Business+Intelligence;AI+Enthusiast;Building+with+Data+%26+AI" />  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwani294&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF61C6&center=true&vCenter=true&width=800&lines=Data+Analyst;Data+Scientist;Machine+Learning;Business+Intelligence;AI+Enthusiast;Building+with+Data+%26+AI" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwani294&layout=compact&theme=radical&hide_border=true" height="150"/>
 </div>
 
 <br/>
@@ -13,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,aws,gcp,azure,postgresql,mongodb,mysql,sqlite,pytorch,tensorflow,sklearn,fastapi,docker,kubernetes,git,github,jenkins,vscode,linux,postman&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,aws,gcp,azure,postgresql,mongodb,mysql,sqlite,pytorch,tensorflow,sklearn,fastapi,docker,kubernetes,git,github,jenkins,vscode,linux,postman,prometheus,grafana,redis&perline=12" />
 
 <br>
 
@@ -36,11 +37,24 @@
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/FAISS-00A67E?style=flat-square"/>
 <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Qdrant-EF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector%20Search-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
 
 </div>
+
 <br/>
 
 ### 🔨 Currently Building
+
+**[Self Healing RAG](https://github.com/Dhwani294/Self-Healing-rag)**  
+`Hybrid Retrieval` → `Qdrant Vector Search` → `Self-Healing Query Expansion` → `FastAPI APIs` → `Prometheus Monitoring` → `Grafana Dashboards`
+
+<br/>
 
 **[VulnGraph — Open-Source Dependency Intelligence Platform](https://github.com/Dhwani294/Open-Source-Dependency-Intelligence-Platform)**  
 `CVE ingestion from 5 sources` → `BigQuery star-schema` → `Airflow DAGs` → `dbt blast-radius models` → `FastAPI on Cloud Run`
@@ -63,11 +77,23 @@
 
 <br/>
 
+### 🚀 Featured Projects
+
+| Project | Highlights |
+|----------|------------|
+| **Self Healing RAG** | Hybrid retrieval, query expansion, vector search, FastAPI APIs, Redis caching, Prometheus monitoring, Grafana dashboards |
+| **VulnGraph** | Dependency intelligence platform using Airflow, dbt, BigQuery, FastAPI, Cloud Run |
+| **Clinical Trial Analytics Platform** | End to end pharma analytics workflows, forecasting, experimentation and reporting |
+| **Intelligent Document Processing System** | OCR extraction, Azure Document Intelligence, LangGraph orchestration, enterprise search |
+
+<br/>
+
 <p align="center">
   <a href="https://linkedin.com/in/jaindhwani"><img src="https://img.shields.io/badge/LinkedIn-jaindhwani-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:dhwanijain294@gmail.com"><img src="https://img.shields.io/badge/Email-dhwanijain294@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  &nbsp;
 </p>
 
-<p align="center"><i>Framing business challenges as analytical problems and building the systems to solve them.</i></p>
+<p align="center">
+<i>Framing business challenges as analytical problems and building the systems to solve them.</i>
+</p>
