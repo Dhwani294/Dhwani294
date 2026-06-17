@@ -74,17 +74,6 @@
 
 <br/>
 
-### 🚀 Featured Projects
-
-| Project | Highlights |
-|----------|------------|
-| **Self Healing RAG** | Hybrid retrieval, query expansion, vector search, FastAPI APIs, Redis caching, Prometheus monitoring, Grafana dashboards |
-| **VulnGraph** | Dependency intelligence platform using Airflow, dbt, BigQuery, FastAPI, Cloud Run |
-| **Clinical Trial Analytics Platform** | End to end pharma analytics workflows, forecasting, experimentation and reporting |
-| **Intelligent Document Processing System** | OCR extraction, Azure Document Intelligence, LangGraph orchestration, enterprise search |
-
-<br/>
-
 <p align="center">
   <a href="https://linkedin.com/in/jaindhwani"><img src="https://img.shields.io/badge/LinkedIn-jaindhwani-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
