@@ -56,6 +56,9 @@
 **[VulnGraph — Open-Source Dependency Intelligence Platform](https://github.com/Dhwani294/Open-Source-Dependency-Intelligence-Platform)**  
 `CVE ingestion from 5 sources` → `BigQuery star-schema` → `Airflow DAGs` → `dbt blast-radius models` → `FastAPI on Cloud Run`
 
+LightRAG Studio Enterprise
+Document Intelligence → Hybrid Retrieval → Knowledge Graphs → Agentic Search → FastAPI → React → Enterprise Observability
+
 <br/>
 
 ### 💼 Experience
