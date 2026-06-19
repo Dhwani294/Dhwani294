@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Vector%20Search-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
