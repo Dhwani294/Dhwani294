@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Dhwani, final year CS student </h1>
+<h1 align="center">hey, i'm Dhwani. mostly here to build stuff and learn out loud.</h1>
 
 <br/>
 
