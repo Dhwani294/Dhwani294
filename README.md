@@ -66,10 +66,10 @@
 
 | | Company | Role | Period |
 |---|---|---|---|
-| 🔵 | **KPMG India Services LLP**, Bangalore | M&A Analytics Intern | Jul – Sept 2025 |
-| 🟢 | **Moback Technologies**, Bangalore | Data Science Intern | May – Jul 2025 |
-| 🟡 | **Fretboard Interactive Systems** | Data Analyst Intern | Dec 2024 – Feb 2025 |
-
+| 🔴 | AGS Health | AI Engineer, R&D | Oct 2026 – Present |
+| 🔵 | KPMG India Services LLP, Bangalore | M&A Analytics Intern | Jul – Sept 2025 |
+| 🟢 | Moback Technologies, Bangalore | Data Science Intern | May – Jul 2025 |
+| 🟡 | Fretboard Interactive Systems | Data Analyst Intern | Dec 2024 – Feb 2025 |
 <br/>
 
 ### 🎓 Education
